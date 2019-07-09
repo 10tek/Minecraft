@@ -1,0 +1,7 @@
+C:\Users\ОралбаевГ\source\repos\Minecraft\Minecraft\obj\Debug\Minecraft.csprojAssemblyReference.cache
+C:\Users\ОралбаевГ\source\repos\Minecraft\Minecraft\obj\Debug\Minecraft.csproj.CoreCompileInputs.cache
+C:\Users\ОралбаевГ\source\repos\Minecraft\Minecraft\bin\Debug\Minecraft.exe.config
+C:\Users\ОралбаевГ\source\repos\Minecraft\Minecraft\bin\Debug\Minecraft.exe
+C:\Users\ОралбаевГ\source\repos\Minecraft\Minecraft\bin\Debug\Minecraft.pdb
+C:\Users\ОралбаевГ\source\repos\Minecraft\Minecraft\obj\Debug\Minecraft.exe
+C:\Users\ОралбаевГ\source\repos\Minecraft\Minecraft\obj\Debug\Minecraft.pdb
